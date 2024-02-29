@@ -21,7 +21,7 @@
 	},
 	"dependencies": {
 		"@emotion/react": "^11.11.1",
-		"@excalidraw/excalidraw": "^0.17.2",
+		"@excalidraw/excalidraw": "^0.17.3",
 		"@faker-js/faker": "^8.4.0",
 		"@ffmpeg/ffmpeg": "^0.12.7",
 		"@ffmpeg/util": "^0.12.1",

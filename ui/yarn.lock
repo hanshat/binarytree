@@ -4150,7 +4150,7 @@ __metadata:
     jszip: ^3.10.1
     jszip-utils: ^0.1.0
     knip: ^4.3.1
-    lucide-react: ^0.295.0
+    lucide-react: ^0.343.0
     marked: ^11.1.0
     msw: ^1.3.2
     papaparse: ^5.4.1
@@ -8064,12 +8064,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"lucide-react@npm:^0.295.0":
-  version: 0.295.0
-  resolution: "lucide-react@npm:0.295.0"
+"lucide-react@npm:^0.343.0":
+  version: 0.343.0
+  resolution: "lucide-react@npm:0.343.0"
   peerDependencies:
     react: ^16.5.1 || ^17.0.0 || ^18.0.0
-  checksum: f8ec263baa6c2a308afa612e5d8c70f17412a84508c245da36448d49b9de6d18fb3eaab50c57a7b752122f24f8453b941ff27d06efcc27a47eff14c1236a1dfe
+  checksum: 42c174805cebb54e5971fb044c8f2ef119d13874b8ad741d622549fc55be39e8925e55b23562e7a15b77b26345d7d96a6d840a99aa12c79bce20d08746c8cf8a
   languageName: node
   linkType: hard
 

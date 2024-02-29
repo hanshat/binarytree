@@ -732,13 +732,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@excalidraw/excalidraw@npm:^0.17.2":
-  version: 0.17.2
-  resolution: "@excalidraw/excalidraw@npm:0.17.2"
+"@excalidraw/excalidraw@npm:^0.17.3":
+  version: 0.17.3
+  resolution: "@excalidraw/excalidraw@npm:0.17.3"
   peerDependencies:
     react: ^17.0.2 || ^18.2.0
     react-dom: ^17.0.2 || ^18.2.0
-  checksum: e6bbccec62b4234a572472e13ea1ded925cdba6f131fb0efb83c1df94b9ad347e3a1fcb54bd3842737a12b77f53126990b715db92a58a29a120e881bd9035d1d
+  checksum: 54d402fa110c3ca8595a36b4c3f96ce4c7ea0aac2df71c51122603482139b5a4dbd0610ed729efbdbc61e04cc7b67c8d833e4371c0c011f3c04720a4f0fc3351
   languageName: node
   linkType: hard
 
@@ -4099,7 +4099,7 @@ __metadata:
   resolution: "code@workspace:."
   dependencies:
     "@emotion/react": ^11.11.1
-    "@excalidraw/excalidraw": ^0.17.2
+    "@excalidraw/excalidraw": ^0.17.3
     "@faker-js/faker": ^8.4.0
     "@ffmpeg/ffmpeg": ^0.12.7
     "@ffmpeg/util": ^0.12.1

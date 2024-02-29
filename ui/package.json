@@ -20,7 +20,7 @@
 		"knip": "knip"
 	},
 	"dependencies": {
-		"@emotion/react": "^11.11.1",
+		"@emotion/react": "^11.11.4",
 		"@excalidraw/excalidraw": "^0.17.2",
 		"@faker-js/faker": "^8.4.0",
 		"@ffmpeg/ffmpeg": "^0.12.7",

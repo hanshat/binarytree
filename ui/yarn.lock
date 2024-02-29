@@ -4144,7 +4144,7 @@ __metadata:
     fs-extra: ^11.2.0
     html-to-image: ^1.11.11
     js-beautify: ^1.14.11
-    jsdom: ^23.0.1
+    jsdom: ^24.0.0
     json-to-ts: ^1.7.0
     jspdf: ^2.5.1
     jszip: ^3.10.1
@@ -7509,9 +7509,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"jsdom@npm:^23.0.1":
-  version: 23.1.0
-  resolution: "jsdom@npm:23.1.0"
+"jsdom@npm:^24.0.0":
+  version: 24.0.0
+  resolution: "jsdom@npm:24.0.0"
   dependencies:
     cssstyle: ^4.0.1
     data-urls: ^5.0.0
@@ -7539,7 +7539,7 @@ __metadata:
   peerDependenciesMeta:
     canvas:
       optional: true
-  checksum: 36a86898d1f403844781d56fb5e92512466361c68ad9c7e771dce0780af02ca2323f07d60b8131030f8654628e66618c1f01d7ea4ac42d652ac0ee3eedff0c0e
+  checksum: 180cf672c1f5e4375fd831b6990c453b4c22b540619abe7a0a3ed0d18eca1171dea9f25739bc06dfea26d1c0d71c7ac26e62fc9a2d9b1657003fc8fd1bf6f9f4
   languageName: node
   linkType: hard
 

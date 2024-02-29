@@ -4143,7 +4143,7 @@ __metadata:
     file-saver: ^2.0.5
     fs-extra: ^11.2.0
     html-to-image: ^1.11.11
-    js-beautify: ^1.14.11
+    js-beautify: ^1.15.1
     jsdom: ^23.0.1
     json-to-ts: ^1.7.0
     jspdf: ^2.5.1
@@ -4851,7 +4851,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"editorconfig@npm:^1.0.3":
+"editorconfig@npm:^1.0.4":
   version: 1.0.4
   resolution: "editorconfig@npm:1.0.4"
   dependencies:
@@ -7449,19 +7449,20 @@ __metadata:
   languageName: node
   linkType: hard
 
-"js-beautify@npm:^1.14.11":
-  version: 1.14.11
-  resolution: "js-beautify@npm:1.14.11"
+"js-beautify@npm:^1.15.1":
+  version: 1.15.1
+  resolution: "js-beautify@npm:1.15.1"
   dependencies:
     config-chain: ^1.1.13
-    editorconfig: ^1.0.3
+    editorconfig: ^1.0.4
     glob: ^10.3.3
+    js-cookie: ^3.0.5
     nopt: ^7.2.0
   bin:
     css-beautify: js/bin/css-beautify.js
     html-beautify: js/bin/html-beautify.js
     js-beautify: js/bin/js-beautify.js
-  checksum: 92512b8dcc54330fe075569fd0226a1960da3fbb68f91e35dbfb110cc2b85e53e3ef17878c8be88b0888277bc5d51b1a692d72a00142d653ce7a8cbd48c66ee0
+  checksum: 0428ea358cdf169da15e11a8b63f13845ee39c707f3718a3ec515eb89d585544525aa8ba5306503431c61e33e1fbfebdf2af41c461e512619d8a2f8664d6c0c4
   languageName: node
   linkType: hard
 
@@ -7469,6 +7470,13 @@ __metadata:
   version: 2.2.1
   resolution: "js-cookie@npm:2.2.1"
   checksum: 9b1fb980a1c5e624fd4b28ea4867bb30c71e04c4484bb3a42766344c533faa684de9498e443425479ec68609e96e27b60614bfe354877c449c631529b6d932f2
+  languageName: node
+  linkType: hard
+
+"js-cookie@npm:^3.0.5":
+  version: 3.0.5
+  resolution: "js-cookie@npm:3.0.5"
+  checksum: 2dbd2809c6180fbcf060c6957cb82dbb47edae0ead6bd71cbeedf448aa6b6923115003b995f7d3e3077bfe2cb76295ea6b584eb7196cca8ba0a09f389f64967a
   languageName: node
   linkType: hard
 
